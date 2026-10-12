@@ -1,0 +1,9 @@
+{
+  "name": "combos-gof-adapter-bridge",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Projeto acadêmico de personalização de combos com Bridge e Adapter",
+  "type": "module",
+  "scripts": { "start": "node src/index.js", "test": "node --test" },
+  "engines": { "node": ">=18" }
+}

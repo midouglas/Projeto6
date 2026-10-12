@@ -1,0 +1,18 @@
+=== MONTAGEM DE CINCO COMBOS DIFERENTES ===
+Combo 1: Big Mac | Refrigerante 300 ml | Batata frita pequena
+Combo 2: Quarteirão | Suco 500 ml | Batata frita média
+Combo 3: McFish | Refrigerante 700 ml | Batata frita grande
+Combo 4: Big Mac | Suco 300 ml | Batata frita grande
+Combo 5: Quarteirão | Refrigerante 500 ml | Batata frita pequena
+
+=== PERSONALIZAÇÃO DOS COMBOS EXISTENTES ===
+Antes: Combo 1: Big Mac | Refrigerante 300 ml | Batata frita pequena
+Depois: Combo 1: Big Mac | Suco 700 ml | Batata frita grande
+Antes: Combo 2: Quarteirão | Suco 500 ml | Batata frita média
+Depois: Combo 2: Quarteirão | Refrigerante 300 ml | Batata frita pequena
+
+=== ADAPTER INTEGRADO AO BRIDGE ===
+Bebida obtida pelo Adapter com código legado 202.
+Combo 6: McFish | Suco 500 ml | Batata frita média
+Substituindo a bebida do combo 3 pelo código legado 103:
+Combo 3: McFish | Refrigerante 700 ml | Batata frita grande

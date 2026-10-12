@@ -1,0 +1,12 @@
+✔ Bridge permite todas as 54 combinações válidas (2.105ms)
+✔ Adapter traduz os seis códigos e funciona no Bridge (0.8937ms)
+✔ Personalização modifica o mesmo combo e mantém outros independentes (0.8839ms)
+✔ Rejeita itens ausentes, tamanhos e códigos inválidos (0.4384ms)
+ℹ tests 4
+ℹ suites 0
+ℹ pass 4
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 164.9058
